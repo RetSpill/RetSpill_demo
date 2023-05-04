@@ -1,0 +1,1 @@
+cmd_/home/kylebot/Desktop/projects/retspill/experiments/kcfi_eval/vuln_module/Module.symvers :=  sed 's/ko$$/o/'  /home/kylebot/Desktop/projects/retspill/experiments/kcfi_eval/vuln_module/modules.order | scripts/mod/modpost      -o /home/kylebot/Desktop/projects/retspill/experiments/kcfi_eval/vuln_module/Module.symvers -e -i Module.symvers -T - 
